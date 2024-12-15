@@ -61,7 +61,3 @@ This project involves analyzing user behavior, cooking preferences, and order tr
 - **Excel**: For initial data exploration.
 - **GitHub**: Repository management and collaboration.
 
-## Contact
-For further information, feel free to reach out:
-- **Email**: support@upliance.ai
-- **Website**: [upliance.ai](http://upliance.ai)
